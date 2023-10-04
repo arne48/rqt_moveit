@@ -22,9 +22,9 @@
    tracker (not MoveIt!'s main tracker).
   </description>
 
-  <maintainer email="iisaito@kinugarage.com">Isaac I.Y. Saito</maintainer>
   <maintainer email="arne.hitzmann@gmail.com">Arne Hitzmann</maintainer>
-  <author>Isaac Saito</author>
+
+  <author email="iisaito@kinugarage.com">Isaac I.Y. Saito</author>
 
   <license>BSD</license>
   <url type="website">http://wiki.ros.org/rqt_moveit</url>
